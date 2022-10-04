@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/book.avif"
+  },{
+    "id": 2,
+    "name": "Bike",
+    "price": 148.99,
+    "imgUrl": "/imgs/bike.avif"
+  },{
+    "id": 3,
+    "name": "Computer",
+    "price": 1089.99,
+    "imgUrl": "/imgs/computer.avif"
+  }
+]
